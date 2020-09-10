@@ -12,8 +12,7 @@ practice code submissions by rust coders
 ## Step 3: create following rust program and commit your code on repo
 - Get temperature from any open API of weather forecast and show your city temperature in JSON or text.
 
-## Step 4: Commit and pushed your rust program changes
-
+## Step 4: Commit and push your rust program changes
 
 ## Step 5 : Create a pull request from GitHub.
 
