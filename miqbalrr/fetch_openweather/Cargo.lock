@@ -115,6 +115,7 @@ dependencies = [
  "dotenv",
  "dotenv_codegen",
  "reqwest",
+ "serde_json",
  "tokio",
 ]
 
