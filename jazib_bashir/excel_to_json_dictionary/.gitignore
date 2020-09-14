@@ -26,3 +26,9 @@ target/
 *.swo
 *~
 *#
+
+# exclude everything
+output/**
+
+# exception to the rule
+!output/.gitkeep 
